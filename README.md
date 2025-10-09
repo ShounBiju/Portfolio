@@ -7,6 +7,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Power BI](#power bi)
 - [Excel](#excel)
 
 # Data Engineering
