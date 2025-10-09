@@ -7,6 +7,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
+- [Excel](#excel)
 
 # Data Engineering
 
@@ -40,5 +41,13 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 |---|---|---|
 | - | - | - |
 
+
+***
+
+# Excel
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+| - | - | - | 
 
 ***
