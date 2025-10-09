@@ -31,7 +31,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| - | - | - | - | 
+| [Amazon Web Scraper ↗](https://github.com/ShounBiju/Amazon-Web-Scrapper-PYTHON) | Web Scraping & Automation | Developed an automated Amazon product price tracker that scrapes titles, prices, and dates from product pages and appends them to a CSV file for trend analysis. Includes a daily automated loop to track price changes over time, turning raw web data into actionable insights for price monitoring or e-commerce analytics. | BeautifulSoup, Requests, Pandas, CSV, Datetime, Time, Smtplib | 
 
 
 ***
@@ -59,7 +59,7 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| [Bike Buyer Insights Excel Dashboard ↗](https://github.com/ShounBiju/Bike-Buyer-Insights-Excel-Dashboard) | Data cleaning, Data analysis, Excel Storytelling, Pivot Tables, | An interactive Excel dashboard uncovering bike buyer behavior and sales trends through dynamic pivot tables, slicers, and data storytelling. It visualizes key insights on customer demographics, purchase patterns, and regional sales performance — blending clear analytics with an intuitive narrative flow. |
+| [Bike Buyer Insights Excel Dashboard ↗](https://github.com/ShounBiju/Bike-Buyer-Insights-Excel-Dashboard) | Data cleaning, Data analysis, Excel Storytelling, Pivot Tables | An interactive Excel dashboard uncovering bike buyer behavior and sales trends through dynamic pivot tables, slicers, and data storytelling. It visualizes key insights on customer demographics, purchase patterns, and regional sales performance — blending clear analytics with an intuitive narrative flow. |
 | - | - | - |
 
 ***
