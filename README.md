@@ -23,7 +23,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| - | - | - | 
+| [Nashville Housing Data Cleaning - SQL](https://github.com/ShounBiju/Nashville-Housing-Data-Cleaning-SQL) | Data Cleaning & Transformation | This project showcases my ability to clean and transform real-world data using SQL. I standardized inconsistent date formats, filled in missing property addresses through self-joins, split address fields into city and state components, and converted categorical values for clarity. Using CTEs, I detected and removed duplicate records, then dropped redundant columns to create a clean, structured dataset ready for analysis. |
+
 
 ***
 
