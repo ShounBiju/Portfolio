@@ -24,6 +24,8 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | [Nashville Housing Data Cleaning ↗](https://github.com/ShounBiju/Nashville-Housing-Data-Cleaning-SQL) | Data Cleaning & Transformation | This project showcases my ability to clean and transform real-world data using SQL. I standardized inconsistent date formats, filled in missing property addresses through self-joins, split address fields into city and state components, and converted categorical values for clarity. Using CTEs, I detected and removed duplicate records, then dropped redundant columns to create a clean, structured dataset ready for analysis. |
+| [COVID-19 Data Analysis ↗](https://github.com/ShounBiju/Covid-Portfolio-Project/blob/main/README.md) | Data Analysis & Visualization | This project explores global COVID-19 data using SQL Server to uncover key insights on infection, death, and vaccination trends. I cleaned and merged two datasets — CovidDeaths and CovidVaccinations — to calculate death rates, infection percentages, and vaccination progress by country and continent.|
+
 
 
 ***
