@@ -59,6 +59,15 @@ Welcome to my portfolio! Here, I document a summary of my projects in the data f
 
 ***
 
+# Cognos Analytics
+
+| Project Link | Project Description | Dashboard / Presentation / Data |
+|---|---|---|
+| [IBM Capstone ↗](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/README.md) | A capstone project analyzing a global developer survey to uncover current and future technology trends, cloud platform adoption, and demographic insights. Includes full data cleaning, transformation, and analysis workflow using Python (Pandas), generating top technology counts and demographic summaries. | [View Dashboard (PDF) ↗](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/CLEANED%20DATA/Dashboard.pdf) • [Presentation (PDF) ↗](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/DataAnalystPresentation.pdf) • [Cleaned Data ↗](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/tree/main/CLEANED%20DATA) • [Python Cleaning Notebook ↗](https://github.com/ShounBiju/IBM-Data-Analyst-Capstone-Technology-Trends-Survey-Analysis/blob/main/Technology%20Trends%20Survey%20Cleaning.ipynb) |
+
+***
+
+
 # Excel
 
 | Project Link | Area of Analysis | Project Description | 
